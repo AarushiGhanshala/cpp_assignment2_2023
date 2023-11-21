@@ -6,7 +6,7 @@ int main()
 {
     int n;
 
-    cout<<"enter range of stack : ";
+    cout<<"enter range of queue : ";
     cin>>n;
 
     queue<int> s;
